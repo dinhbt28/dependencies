@@ -1,0 +1,34 @@
+{
+  "react": {
+    "name": "react",
+    "version": "18.2.0"
+  },
+  "react-native": {
+    "name": "react-native",
+    "version": "0.73.1"
+  },
+  "@react-native-async-storage/async-storage": {
+    "name": "@react-native-async-storage/async-storage",
+    "version": "1.21.0"
+  },
+  "@react-navigation/native": {
+    "name": "@react-navigation/native",
+    "version": "6.1.9"
+  },
+  "@react-navigation/native-stack": {
+    "name": "@react-navigation/native-stack",
+    "version": "6.9.17"
+  },
+  "react-native-paper": {
+    "name": "react-native-paper",
+    "version": "5.11.4"
+  },
+  "react-native-safe-area-context": {
+    "name": "react-native-safe-area-context",
+    "version": "4.8.1"
+  },
+  "react-native-screens": {
+    "name": "react-native-screens",
+    "version": "3.29.0"
+  }
+}

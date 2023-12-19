@@ -1,0 +1,25 @@
+{
+  "name": "dependencies",
+  "version": "0.0.1",
+  "description": "Dependency management & utils for the Super App",
+  "main": "index.js",
+  "files": [
+    "android",
+    "ios",
+    "lib",
+    "index.js",
+    "preset.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dinh",
+  "license": "MIT",
+  "homepage": "https://github.com/thiendinh1995/super-app",
+  "repository": "https://github.com/thiendinh1995/dependencies",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
+}
